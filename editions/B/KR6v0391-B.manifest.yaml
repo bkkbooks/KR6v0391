@@ -1,0 +1,178 @@
+canonical_identifier: bkk:krp/KR6v0391/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0391/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 象教皮編（六卷全）
+  identifiers:
+    krp: KR6v0391
+    cbeta: B17n0093
+    cbeta_old_id: B17n0093
+    authorityid: CA0006177
+    json_key: B0093
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B17/B17n0093.xml
+    old_id: B17n0093
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0391_000-B.yaml, hash: 'sha256:ea1917efeb389168b7286ea505952efbc03faeaca4ffb88ab7684d4fc2b0e2b8'}
+  - {seq: 1, filename: KR6v0391_001-B.yaml, hash: 'sha256:fe00964761eb8a2ebce93d49f87addb7f415c5c249f9ab738eaab23ef5aa0a20'}
+  - {seq: 2, filename: KR6v0391_002-B.yaml, hash: 'sha256:8f98722ca7834f96980adfa615bfe3ec3aa190adb985ada2a40c46c588afa913'}
+  - {seq: 3, filename: KR6v0391_003-B.yaml, hash: 'sha256:f57e7ac0fec695c1cc0a99a97a52a8b9763de22fcd3f5736efe58c2232a46370'}
+  - {seq: 4, filename: KR6v0391_004-B.yaml, hash: 'sha256:7d217b1307cc6f73dfefe8c96e5fb319ae88345ee608a4a72a32e704b3613cf8'}
+  - {seq: 5, filename: KR6v0391_005-B.yaml, hash: 'sha256:ac67691d20499e2f12e861aa7101cb36241b97a6dc50dda0879ab64a94c893f5'}
+  - {seq: 6, filename: KR6v0391_006-B.yaml, hash: 'sha256:0636e2abdb5c7728ceb04185c35b4cc8a6731681a80a7b7fa79f419772ef511d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0391_000-B.markers.yaml, hash: 'sha256:d2482e8670ecf0bdb50b73b97052cb6d1a22c7d10c49a44e7253e191f2b5a15d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0391_001-B.markers.yaml, hash: 'sha256:acbd7291f03c8679db0c99673b5e85f611522bf11884bfc4a3c2e15244096c94'}
+  - {seq: 2, role: markers, filename: assets/KR6v0391_002-B.markers.yaml, hash: 'sha256:53fa84665918436794cefc2be5997019586c00e70db0c3ec9dac33e9db72743c'}
+  - {seq: 3, role: markers, filename: assets/KR6v0391_003-B.markers.yaml, hash: 'sha256:d7737cb566ecd266d9340007317c59c5c4968d503398cb3239821696b3db92d9'}
+  - {seq: 4, role: markers, filename: assets/KR6v0391_004-B.markers.yaml, hash: 'sha256:276ec095a8b95eba6f0b4f140bb89396511e0324dfaea626f650e0c1eb45cb81'}
+  - {seq: 5, role: markers, filename: assets/KR6v0391_005-B.markers.yaml, hash: 'sha256:4e3a817dacd1a803b3a8b38d6c20f53d160c5404f5f765e61c40b5b3b00b0279'}
+  - {seq: 6, role: markers, filename: assets/KR6v0391_006-B.markers.yaml, hash: 'sha256:4c52e5374c6df5453ee7265f8a95dd515253eb1dcb48e461d65b232bd2dccff4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0391_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0391_B_000-mulu-2
+    span:
+    - front
+    - 295
+    - 295
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0391_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 11781
+  label: 象教皮編卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0391_B_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 梵譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0391_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 10751
+  label: 象教皮編卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0391_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 名數
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0391_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 9833
+  label: 象教皮編卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0391_B_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 異談
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0391_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 13958
+  label: 象教皮編卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0391_B_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 禪語
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0391_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 7976
+  label: 象教皮編卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0391_B_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 評經
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0391_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 13532
+  label: 象教皮編卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0391_B_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 移牘
+  type: mulu
+  level: 1
+hash: sha256:6f86c05edb62962f56dd693b335d20542ebc65b68606d42d88ff8ace3d0d5908
