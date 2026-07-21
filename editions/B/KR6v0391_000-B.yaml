@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6v0391/b/v1/juan/0
 seq: 0
-front:
+body:
   text: 象教皮編序余童時聞人言儒釋道三教同歸一源或又言釋氏出世儒者用世本不同道或又言儒家立訓平易而持行難於有終不若佛之旨趣元微而頓悟得於頃刻余弱冠時習業南雍期滿徙寓報恩天界二寺凡八十餘日盡取三藏并諸僧語錄讀之茫然無見於元微之旨與吾儒之學遼不相涉也余年三十從仕仕未久歸田又越四十年今余年七十矣私擬平生所歷危疑之境操心酬應之槩似與釋典暗合余乃彙輯釋家語六卷題曰象教皮編於乎儒釋果同乎果異乎果似同而異似異而同乎覽者當自得焉萬歷甲申仲秋上弦日環中迂叟陳士元書歲乙酉莫春還樸子見象教皮編未解題義讀至第四卷禪語中載達磨以不執文字不離文字為得皮豁然悟曰皮編之義葢取此爾即往環碧園問著書叟叟笑而不言蒲騷社陳容淳謹識象教皮編目錄卷之一梵譯二十分卷之二名數三十五分卷之三異談一十二分卷之四禪語九十五分卷之五評經三十九分卷之六移牘八十七分象教皮編目錄終
   hash: sha256:13fcd216487e833c711bfe855fdfab57b7002fb6f86d02efb0bed3c3d220f6cb
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6v0391_B_000-mulu-1, level: '1'}
   - {type: 其他, offset: 295, content: 目錄, id: KR6v0391_B_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 象教皮編（六卷全）
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/B/B17/B17n0093.xml
     old_id: B17n0093
-hash: sha256:ea1917efeb389168b7286ea505952efbc03faeaca4ffb88ab7684d4fc2b0e2b8
+hash: sha256:99e3589350fa66fd8b191abc2b0b49f183a72215e872bbc0bea4b23fd97d1a01
